@@ -1,0 +1,57 @@
+# =========================
+# Node.js / Backend
+# =========================
+/backend/node_modules
+/backend/.env
+/backend/dist
+/backend/build
+/backend/coverage
+/backend/.DS_Store
+/backend/.vscode
+/backend/.idea
+/backend/npm-debug.log*
+/backend/yarn-debug.log*
+/backend/yarn-error.log*
+
+# =========================
+# Frontend (React / Vite)
+# =========================
+/frontend/node_modules
+/frontend/.env
+/frontend/.env.local
+/frontend/.env.*.local
+/frontend/dist
+/frontend/build
+/frontend/coverage
+/frontend/.DS_Store
+/frontend/.vscode
+/frontend/.idea
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+# =========================
+# General
+# =========================
+node_modules
+.env
+.env.local
+.env.*.local
+dist
+build
+coverage
+*.log
+*.gz
+*.tgz
+*.swp
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
